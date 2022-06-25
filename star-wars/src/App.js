@@ -16,6 +16,10 @@ function App() {
       });
   }, []);
 
+  const handleClick = (i) => {
+    setQuantity(parseInt(quantity + i))
+  }
+
   return (
     <>
       <div>

@@ -1,6 +1,6 @@
 import React from "react";
 import "./Cart.css";
-import ""
+
 
 export default function Cart(props) {
     return (
