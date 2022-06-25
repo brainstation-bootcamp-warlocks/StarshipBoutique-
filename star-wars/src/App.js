@@ -19,7 +19,7 @@ function App() {
   return (
     <>
       <div>
-        <Header />
+        <Header quantity={quantity}/>
       </div>
     </>
   );

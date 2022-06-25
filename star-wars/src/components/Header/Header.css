@@ -1,0 +1,12 @@
+.header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    background-color: white;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/6/6c/Star_Wars_Logo.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 150px;
+    padding: 20px;
+}

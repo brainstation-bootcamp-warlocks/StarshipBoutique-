@@ -1,0 +1,9 @@
+.cart-wrapper {
+
+}
+
+.fa-shopping-cart {
+    font-size: 25px;
+    color: yellow;
+    z-index: 1;
+}
