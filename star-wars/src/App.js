@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Header from "./components/Header/Header";
+import Starships from "./components/Starships/Starships";
 
 const api = "https://swapi.dev/api/starships/";
 
@@ -21,6 +22,7 @@ function App() {
       <div>
         <Header />
       </div>
+      <Starships />
     </>
   );
 }
